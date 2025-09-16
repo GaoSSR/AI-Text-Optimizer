@@ -122,7 +122,7 @@ AI-Text-Optimizer/
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 📧 Email: 你的邮箱
+- 📧 Email: 2502682947@qq.com
 - 🐛 Issues: [GitHub Issues](https://github.com/你的用户名/AI-Text-Optimizer/issues)
 
 ---
