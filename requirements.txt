@@ -1,0 +1,8 @@
+# AI文本优化器依赖包
+# 本项目主要使用Python标准库，无需额外安装依赖
+
+# 如果在某些系统上tkinter未预装，可以通过以下方式安装：
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# CentOS/RHEL: sudo yum install tkinter
+# macOS: tkinter通常随Python预装
+# Windows: tkinter通常随Python预装
